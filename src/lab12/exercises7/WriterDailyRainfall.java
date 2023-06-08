@@ -4,6 +4,15 @@ import java.io.BufferedWriter;
 import java.io.PrintWriter;
 import java.io.FileWriter;
 
+/**
+ * This program demonstrate writing data  using BufferedWriter.
+ * This program demonstrate writing data using PrintWriter.
+ * This program demonstrate writing data using FileWriter.
+ * 
+ * @author muhammadizzat
+ *
+ */
+
 public class WriterDailyRainfall {
 
 	public static void main(String[] args) {

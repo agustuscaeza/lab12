@@ -4,6 +4,14 @@ package lab12.exercises6;
 	import java.io.DataInputStream;
 	import java.io.FileInputStream;
 	import java.io.IOException;
+	
+	/**
+	 * This program demonstrate writing data as byte using FileinputStream.
+	 * This program demonstrate writing byte-based data using DatainputStream.
+	 * 
+	 * @author muhammadizzat
+	 *
+	 */
 
 	public class DataOutputRainfall {
 		 public static void main(String[] args) {
